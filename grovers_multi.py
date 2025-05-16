@@ -1,3 +1,13 @@
+__author__ = "Leo Angelo Genota"
+__copyright__ = "Copyright (c) 2025 Leo Angelo Genota"
+__credits__ = ["Leo Angelo Genota"]
+
+__license__ = "MIT"
+__version__ = "1.0.0"
+__maintainer__ = "Leo Angelo Genota"
+__email__ = "genota.leo@gmail.com"
+__status__ = "Prototype"
+
 from qiskit import QuantumCircuit, transpile
 from qiskit_aer import AerSimulator
 import numpy as np
